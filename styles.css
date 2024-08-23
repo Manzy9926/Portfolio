@@ -5,5 +5,11 @@ body{
 }
 
 button{
-    color: rgb(194, 67, 93);
+    background-color: rgb(194, 67, 93);
+    color: white;
+    
 }
+div {
+    color: white;
+}
+h2
